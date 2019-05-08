@@ -45,8 +45,12 @@ i {
     font-size: 30px;
     width: 80px;
     text-align: center;
-    color: #2b2b2b;
+    color: #FF716A;
     cursor: pointer;
+}
+i:hover {
+    transform: scale(0.93);
+    color: #EB4E45;
 }
 .controls .controls__colors {
     display: flex;

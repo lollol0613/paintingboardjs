@@ -87,8 +87,6 @@ function saveClick() {
     link.href = image;
     link.download = "pb_export_" + time;
     link.click();
-    //link.download = image;
-
 }
 /*
 function handleFillClick(event) {
